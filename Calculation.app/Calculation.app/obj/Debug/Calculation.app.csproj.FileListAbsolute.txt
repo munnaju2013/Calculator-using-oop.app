@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\bin\Debug\Calculation.app.exe.config
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.Form1.resources
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.Properties.Resources.resources
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\bin\Debug\Calculation.app.exe
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\bin\Debug\Calculation.app.pdb
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.exe
+C:\Users\PC21\Desktop\sujon exm\Calculation.app\Calculation.app\obj\Debug\Calculation.app.pdb
+C:\Users\PC21\Desktop\Calculation.app\Calculation.app\bin\Debug\Calculation.app.exe.config
+C:\Users\PC21\Desktop\Calculation.app\Calculation.app\obj\Debug\Calculation.app.exe
+C:\Users\PC21\Desktop\Calculation.app\Calculation.app\obj\Debug\Calculation.app.pdb
